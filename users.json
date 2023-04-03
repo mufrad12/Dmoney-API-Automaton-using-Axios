@@ -1,0 +1,25 @@
+[
+    {
+        "customer_id": 10516,
+        "customer_name": "Julius Schmitt",
+        "customer_email": "josiah_willms41@gmail.com",
+        "customer_phone_number": "01777767690",
+        "role": "Customer"
+    },
+    {
+        "customer_id": 10517,
+        "another_customer_name": "Mabel Schuppe",
+        "another_customer_email": "dax.stiedemann54@yahoo.com",
+        "another_customer_phone_number": "01766688972",
+        "role": "Customer"
+    },
+    {
+        "agent_name": "Elizabeth Abshire",
+        "agent_email": "velma.predovic44@yahoo.com",
+        "agent_phone_number": "01777791969",
+        "role": "Agent"
+    },
+    {
+        "customer_transaction_id": "TXN774864"
+    }
+]
