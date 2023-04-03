@@ -1,4 +1,4 @@
-# Dmoney API Automaton using Axios
+# Dmoney API Automation using Axios
 Tested an API using Mocha and axios framework by user interaction and created mochawesome report
 
 ### Prerequisites :
